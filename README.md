@@ -1,1 +1,1 @@
-This repository contains the labs by Adonis Jamal and Jean-Vincent Martini for the "Deep Learning in Practice" course of MVA master's degree (ENS Paris-Saclay) and CentraleSupélec.
+This repository contains the labs by Adonis Jamal and Jean-Vincent Martini for the "Deep Learning in Practice" course of MVA master's degree (ENS Paris-Saclay) and CentraleSupélec. The lab 1 is not provided here since it was more a theoretical introduction to deep learning and PyTorch than a practical exercise.
